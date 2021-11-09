@@ -1,0 +1,4 @@
+1. Operator Precedence (Section 3, Lesson 24)
+2. Augmented Assignment Operator (Section 3, Lesson 28)
+3. Formatted Strings (Section 3, Lesson 33)
+4. String Indexes (Section 3, Lesson 34)
