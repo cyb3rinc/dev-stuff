@@ -1,4 +1,4 @@
-list = ['apples', 'pears', 'prunes', 'suditu']
+list = ['apples', 'pears', 'prunes']
 
 length = len(list)
 
